@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Label/ValueLabel Value Label 1`] = `
+<div>
+  <span
+    class="MuiTypography-root makeStyles-valueLabel MuiTypography-body1"
+  >
+    A ValueLabel is here
+  </span>
+</div>
+`;

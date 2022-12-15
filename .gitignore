@@ -1,0 +1,7 @@
+backend/headlamp-server
+backend/headlamp-server.exe
+backend/tools
+app/electron/src/*
+docs/development/storybook/
+.plugins
+node_modules

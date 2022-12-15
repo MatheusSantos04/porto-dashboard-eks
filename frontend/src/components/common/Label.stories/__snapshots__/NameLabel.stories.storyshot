@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Label/NameLabel Name Label 1`] = `
+<div>
+  <span
+    class="MuiTypography-root makeStyles-nameLabel MuiTypography-body1"
+  >
+    A name label
+  </span>
+</div>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Label/HoverInfoLabel Hover Info Label 1`] = `
+<div>
+  <p
+    class="MuiTypography-root makeStyles-noWrap MuiTypography-body1"
+    title="hover info"
+  >
+    Some label
+    <span />
+  </p>
+</div>
+`;
+
+exports[`Storyshots Label/HoverInfoLabel Hover Info Label Info 1`] = `
+<div>
+  <p
+    class="MuiTypography-root makeStyles-noWrap MuiTypography-body1"
+  >
+    Some label
+    <span />
+  </p>
+</div>
+`;

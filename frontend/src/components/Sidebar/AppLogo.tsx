@@ -1,7 +1,7 @@
 import { SvgIcon } from '@material-ui/core';
 import { ReactElement } from 'react';
-import { ReactComponent as LogoLight } from '../../resources/icon-porto.svg';
-import { ReactComponent as LogoWithTextLight } from '../../resources/porto-logo.svg';
+import { ReactComponent as LogoLight } from '../../resources/01.svg';
+import { ReactComponent as LogoWithTextLight } from '../../resources/01.svg';
 
 export interface AppLogoProps {
   /** The size of the logo. 'small' for in mobile view, and 'large' for tablet and desktop sizes. */
